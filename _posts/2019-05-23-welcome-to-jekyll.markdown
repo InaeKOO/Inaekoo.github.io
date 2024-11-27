@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interests"
-date:   2019-05-23 21:03:36 +0530
+date:   2024-11-27 14:17:36 +0900
 ---
 My interests lie in
 1. Developing Quantum computer Hardware/Software, such as
