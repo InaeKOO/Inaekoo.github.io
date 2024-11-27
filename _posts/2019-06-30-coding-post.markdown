@@ -10,6 +10,7 @@ with experience in projects on various Neural Networks, Quantum computing, image
 processing by Computer vision.
 - 72 credits, GPA 4.14 (Major GPA 4.08 / 4.3)
 
+<!--
 ```javascript
 const express = require('express')
 const app = express()
@@ -20,6 +21,7 @@ app.get('/', function (req, res) {
  
 app.listen(3000)
 ```
+-->
 
 2 . Very confident in implementing ML/DL research papers and research ideas via Pytorch,
 Tensorflow, etc.
@@ -32,6 +34,7 @@ Prize
 - Big Data Innovation Sharing University Data-Centric University 4.0 contest: 3
 rd Prize
 
+<!--
 ```scss
 body {
 	font-family: 'Nunito Sans', sans-serif;
@@ -41,6 +44,8 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 ```
+-->
+
 3 . Very confident in giving a presentation in English and writing in English. Ready and eager. Have strong mathematical & physic skills.
 to collaborate with foreign researchers.
 - TEPS: 466 (Near-Native Level of Communicative Competence)
