@@ -5,7 +5,7 @@ description: Qualifications of Inhoe KOO.
 date:   2021-05-23 21:03:36 +0530
 categories: Credits Prizes Skills
 ---
-1. Self-motivated sophomore student majoring in SNU Electrical & Computer engineering
+1 . Self-motivated sophomore student majoring in SNU Electrical & Computer engineering
 with experience in projects on various Neural Networks, Quantum computing, image
 processing by Computer vision.
 - 72 credits, GPA 4.14 (Major GPA 4.08 / 4.3)
@@ -21,7 +21,7 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
-2. Very confident in implementing ML/DL research papers and research ideas via Pytorch,
+2 . Very confident in implementing ML/DL research papers and research ideas via Pytorch,
 Tensorflow, etc.
 - 2023 Artificial Intelligence Competition for Product Recognition of Unmanned
 Vendors based on Deep Learning: 1
@@ -41,7 +41,7 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 ```
-3. Very confident in giving a presentation in English and writing in English. Ready and eager. Have strong mathematical & physic skills.
+3 . Very confident in giving a presentation in English and writing in English. Ready and eager. Have strong mathematical & physic skills.
 to collaborate with foreign researchers.
 - TEPS: 466 (Near-Native Level of Communicative Competence)
 - TOEFL: 104
