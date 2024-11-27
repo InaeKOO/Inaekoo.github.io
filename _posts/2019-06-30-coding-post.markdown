@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Coding Post"
-description: An example post which shows code rendering.
-date:   2019-05-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "Summary of Qualification"
+description: Qualifications of Inhoe KOO.
+date:   2021-05-23 21:03:36 +0530
+categories: Credits Prizes Skills
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+1. Self-motivated sophomore student majoring in SNU Electrical & Computer engineering
+with experience in projects on various Neural Networks, Quantum computing, image
+processing by Computer vision.
+- 72 credits, GPA 4.14 (Major GPA 4.08 / 4.3)
 
 ```javascript
 const express = require('express')
@@ -18,7 +21,16 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam qui voluptatem excepturi nemo similique atque sapiente aperiam, dolorum deleniti! Esse quam perferendis temporibus nemo at molestias necessitatibus tenetur cupiditate sapiente. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil et voluptatibus non labore officiis assumenda, distinctio perspiciatis blanditiis nesciunt rerum molestias impedit fugiat nulla qui libero minima quasi! Libero, iure.
+2. Very confident in implementing ML/DL research papers and research ideas via Pytorch,
+Tensorflow, etc.
+- 2023 Artificial Intelligence Competition for Product Recognition of Unmanned
+Vendors based on Deep Learning: 1
+st Prize
+- Classification and recycling challenge of AI object recognition-based resources: 2
+nd
+Prize
+- Big Data Innovation Sharing University Data-Centric University 4.0 contest: 3
+rd Prize
 
 ```scss
 body {
@@ -29,4 +41,11 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 ```
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam rerum, ratione impedit necessitatibus facere soluta odio repellat asperiores neque! Sunt iusto quia suscipit amet inventore eum, vel molestiae reiciendis alias.
+3. Very confident in giving a presentation in English and writing in English. Ready and eager. Have strong mathematical & physic skills.
+to collaborate with foreign researchers.
+- TEPS: 466 (Near-Native Level of Communicative Competence)
+- TOEFL: 104
+- KPHE Classical Mechanics, Electromagnetics Expert
+- Basic Circuit Theory and Experiment, Electrical System Linear Algebra (SNU)
+Top Student
+- Basic Quantum computing and information (SNU) A+ among senior students
