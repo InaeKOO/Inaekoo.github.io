@@ -18,7 +18,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Inhoe KOO
-  tagline: Developer. Entreprenuer. Co-founder of ROUND
+  tagline: Developer. Entreprenuer. Intern of the CML Lab.
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
